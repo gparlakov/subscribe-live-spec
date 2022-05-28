@@ -13,6 +13,7 @@
     }
   },
   "scripts": {
+    "start": "npx jest --watchAll",
     "jest:watch": "npx jest --watchAll"
   },
   "dependencies": {
